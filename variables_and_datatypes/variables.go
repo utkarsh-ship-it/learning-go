@@ -1,9 +1,12 @@
-// not valid variables
+// How to define a variable
+// keyword identifier type => var x int
+
+//not valid variables
 // not starts with number
 // no slash
 // no keyword
+
 // Implicit and explicit idea
-// var name_of_var type
 package main
 
 import "fmt"
